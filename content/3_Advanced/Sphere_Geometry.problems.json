@@ -1,4 +1,36 @@
 {
-  "MODULE_ID": "sphere-geometry",
-  "practice": []
+  "MODULE_ID": "polynomials-roots",
+  "practice": [
+    {
+      "uniqueId": "aime-2016i-8",
+      "name": "Problem 8 (2016 AIME I)",
+      "url": "https://artofproblemsolving.com/wiki/index.php/2016_AIME_I_Problems/Problem_8",
+      "source": "AIME",
+      "difficulty": "Hard",
+      "isStarred": true,
+      "tags": [
+        "Vieta",
+        "Polynomials"
+      ],
+      "statement": "This is a 2016 AIME I problem focusing on Vieta's formulas and polynomials. See the full problem statement on [AoPS](https://artofproblemsolving.com/wiki/index.php/2016_AIME_I_Problems/Problem_8).",
+      "solutionMetadata": {
+        "kind": "none"
+      }
+    },
+    {
+      "uniqueId": "aime-2019ii-7",
+      "name": "Problem 7 (2019 AIME II)",
+      "url": "https://artofproblemsolving.com/wiki/index.php/2019_AIME_II_Problems/Problem_7",
+      "source": "AIME",
+      "difficulty": "Very Hard",
+      "isStarred": false,
+      "tags": [
+        "Factor Theorem"
+      ],
+      "statement": "This is a 2019 AIME II problem focusing on the Factor Theorem. See the full problem statement on [AoPS](https://artofproblemsolving.com/wiki/index.php/2019_AIME_II_Problems/Problem_7).",
+      "solutionMetadata": {
+        "kind": "none"
+      }
+    }
+  ]
 }
